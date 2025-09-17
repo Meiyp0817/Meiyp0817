@@ -54,6 +54,6 @@ Here are some of the tools and languages I've mastered on my journey to become a
 ### 📊 My Shinobi Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=MeiYongPeng&show_icons=true&theme=buefy&count_private=true](https://github-readme-stats.vercel.app/api?username=MeiYongPeng&show_icons=true&theme=buefy&count_private=true)" alt="Mei Yong Peng's GitHub stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Meiyp0817&show_icons=true&theme=buefy&count_private=true](https://github-readme-stats.vercel.app/api?username=Meiyp0817&show_icons=true&theme=buefy&count_private=true)" alt="Mei Yong Peng's GitHub stats" />
   <img src="[https://github-readme-streak-stats.herokuapp.com/?user=MeiYongPeng&theme=buefy&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=MeiYongPeng&theme=buefy&hide_border=true)" alt="Mei Yong Peng's GitHub streak" />
 </p>
