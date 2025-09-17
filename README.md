@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://path/to/your/naruto_image.gif" alt="Naruto Uzumaki" width="400"/>
+  <img src="Image/naruto_image.gif" alt="Naruto Uzumaki" width="400"/>
 </p>
 
 <h1 align="center" style="font-family: 'Bebas Neue', sans-serif;">Hello, I'm Mei Yong Peng 👋</h1>
