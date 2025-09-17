@@ -12,6 +12,8 @@
 
 [cite_start]I'm a motivated Computer Science student at Multimedia University (MMU) with a strong foundation in programming and problem-solving[cite: 4]. Just like a ninja, I'm always training to master new techniques and skills!
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
 * [cite_start]💻 I'm currently focusing on **Data Analytics** and **AI Engineering**[cite: 6].
 * [cite_start]📚 I have a solid foundation in **Python**, **Java**, and **SQL**[cite: 48].
 * [cite_start]💡 My current interests are in **digital payments** and **fintech**[cite: 5].
