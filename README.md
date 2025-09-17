@@ -8,8 +8,11 @@
 
 ---
 
-[![](https://img.shields.io/badge/-@meiiiyp-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/meiiiyp/)
 [![](https://img.shields.io/badge/-@Meiyp0817-%23181717?style=flat-square&logo=github)](https://github.com/Meiyp0817)
+<p align="left">
+<a href="https://www.linkedin.com/in/mei-yong-peng-481672351/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/meiiiyp/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ### 🍥 About Me
 
@@ -57,6 +60,6 @@ Here are some of the tools and languages I've mastered on my journey to become a
 ### 📊 My Shinobi Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meiyp0817&show_icons=true&theme=buefy&count_private=true" alt="Mei Yong Peng's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meiyp0817&theme=buefy&hide_border=true" alt="Mei Yong Peng's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meiyp0817&show_icons=true&theme=react&count_private=true" alt="Mei Yong Peng's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meiyp0817&theme=react&hide_border=true" alt="Mei Yong Peng's GitHub streak" />
 </p>
