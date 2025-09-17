@@ -2,27 +2,27 @@
   <img src="Image/naruto_image.gif" alt="Naruto Uzumaki" width="400"/>
 </p>
 
-<h1 align="center" style="font-family: 'Bebas Neue', sans-serif;">Hello, I'm Mei Yong Peng 👋</h1>
+<h1 align="center">Hello, I'm Mei Yong Peng 👋</h1>
 
-<h3 align="center" style="font-family: 'Pacifico', cursive;">"Believe it!"</h3>
+<h3 align="center">"Believe it!"</h3>
 
 ---
 
 ### 🍥 About Me
 
-[cite_start]I'm a motivated Computer Science student at Multimedia University (MMU) with a strong foundation in programming and problem-solving[cite: 4]. Just like a ninja, I'm always training to master new techniques and skills!
+[cite_start]I'm a **motivated Computer Science student** at Multimedia University (MMU) with a strong foundation in programming and problem-solving[cite: 4]. Just like a ninja, I'm always training to master new techniques and skills!
 
-<img hight="400" width="500" alt="GIF" align="right" src="Image/naruto_image2.gif">
+<img height="400" width="500" alt="GIF" align="right" src="Image/naruto_image2.gif">
 
 * [cite_start]💻 I'm currently focusing on **Data Analytics** and **AI Engineering**[cite: 6].
 * [cite_start]📚 I have a solid foundation in **Python**, **Java**, and **SQL**[cite: 48].
 * [cite_start]💡 My current interests are in **digital payments** and **fintech**[cite: 5].
-* 💬 Feel free to connect with me! I full of ❤️‍🔥 Chakra, and I want to unlock more Jutsu.
+* 💬 Feel free to connect with me! I'm full of ❤️‍🔥 Chakra, and I want to unlock more Jutsu.
 
-</br>
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
@@ -54,6 +54,6 @@ Here are some of the tools and languages I've mastered on my journey to become a
 ### 📊 My Shinobi Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Meiyp0817&show_icons=true&theme=buefy&count_private=true](https://github-readme-stats.vercel.app/api?username=Meiyp0817&show_icons=true&theme=buefy&count_private=true)" alt="Mei Yong Peng's GitHub stats" />
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Meiyp0817&theme=buefy&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Meiyp0817&theme=buefy&hide_border=true)" alt="Mei Yong Peng's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meiyp0817&show_icons=true&theme=buefy&count_private=true" alt="Mei Yong Peng's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meiyp0817&theme=buefy&hide_border=true" alt="Mei Yong Peng's GitHub streak" />
 </p>
