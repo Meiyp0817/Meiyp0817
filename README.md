@@ -8,6 +8,9 @@
 
 ---
 
+[![](https://img.shields.io/badge/-@meiiiyp-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/meiiiyp/)
+[![](https://img.shields.io/badge/-@Meiyp0817-%23181717?style=flat-square&logo=github)](https://github.com/Meiyp0817)
+
 ### 🍥 About Me
 
 I'm a **motivated Computer Science student** at Multimedia University (MMU) with a strong foundation in programming and problem-solving. Just like a ninja, I'm always training to master new techniques and skills!
