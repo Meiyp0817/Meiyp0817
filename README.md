@@ -12,7 +12,7 @@
 
 I'm a **motivated Computer Science student** at Multimedia University (MMU) with a strong foundation in programming and problem-solving. Just like a ninja, I'm always training to master new techniques and skills!
 
-<img height="400" width="500" alt="GIF" align="right" src="Image/naruto_image2.gif">
+<img height="400" width="400" alt="GIF" align="right" src="Image/naruto_image2.gif">
 
 * 💻 I'm currently focusing on **Data Analytics** and **AI Engineering**.
 * 📚 I have a solid foundation in **Python**, **Java**, and **SQL**.
