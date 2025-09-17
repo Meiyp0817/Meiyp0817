@@ -17,11 +17,16 @@
 * [cite_start]💻 I'm currently focusing on **Data Analytics** and **AI Engineering**[cite: 6].
 * [cite_start]📚 I have a solid foundation in **Python**, **Java**, and **SQL**[cite: 48].
 * [cite_start]💡 My current interests are in **digital payments** and **fintech**[cite: 5].
-* 💬 Feel free to connect with me! My ninja clan includes **Python**, **Java**, and a variety of data tools.
+* 💬 Feel free to connect with me! I full of ❤️‍🔥 Chakra, and I want to unlock more Jutsu.
+
+</br>
+</br>
+</br>
+</br>
 
 ---
 
-### 📜 My Ninja Scrolls (Skills)
+### 📜 My Jutsu List (Skills)
 
 Here are some of the tools and languages I've mastered on my journey to become a great shinobi:
 
@@ -47,9 +52,6 @@ Here are some of the tools and languages I've mastered on my journey to become a
 ---
 
 ### 📊 My Shinobi Stats
-
-You can add dynamic GitHub stats to show your activity. Just replace `your-username` with `MeiYongPeng` in the code below.
-
 
 <p align="center">
   <img src="[https://github-readme-stats.vercel.app/api?username=MeiYongPeng&show_icons=true&theme=buefy&count_private=true](https://github-readme-stats.vercel.app/api?username=MeiYongPeng&show_icons=true&theme=buefy&count_private=true)" alt="Mei Yong Peng's GitHub stats" />
