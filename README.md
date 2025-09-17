@@ -10,13 +10,13 @@
 
 ### 🍥 About Me
 
-[cite_start]I'm a **motivated Computer Science student** at Multimedia University (MMU) with a strong foundation in programming and problem-solving[cite: 4]. Just like a ninja, I'm always training to master new techniques and skills!
+I'm a **motivated Computer Science student** at Multimedia University (MMU) with a strong foundation in programming and problem-solving. Just like a ninja, I'm always training to master new techniques and skills!
 
 <img height="400" width="500" alt="GIF" align="right" src="Image/naruto_image2.gif">
 
-* [cite_start]💻 I'm currently focusing on **Data Analytics** and **AI Engineering**[cite: 6].
-* [cite_start]📚 I have a solid foundation in **Python**, **Java**, and **SQL**[cite: 48].
-* [cite_start]💡 My current interests are in **digital payments** and **fintech**[cite: 5].
+* 💻 I'm currently focusing on **Data Analytics** and **AI Engineering**.
+* 📚 I have a solid foundation in **Python**, **Java**, and **SQL**.
+* 💡 My current interests are in **digital payments** and **fintech**.
 * 💬 Feel free to connect with me! I'm full of ❤️‍🔥 Chakra, and I want to unlock more Jutsu.
 
 <br>
